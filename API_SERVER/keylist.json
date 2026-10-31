@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "key": "AP-TESTKEY00000000",
+      "username": "admin",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "expiresAt": null,
+      "lastUsed": null,
+      "lastIp": null
+    }
+  ]
+}

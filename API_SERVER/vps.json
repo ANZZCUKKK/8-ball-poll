@@ -1,0 +1,7 @@
+{
+  "port": 3000,
+  "adminToken": "GANTI_TOKEN_RAHASIA_MU",
+  "latestVersion": "1.0.0",
+  "updateUrl": "https://t.me/anzzseturr",
+  "logEnabled": true
+}
